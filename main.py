@@ -1,7 +1,7 @@
 import graph
 
 while True:
-    filename = str.strip(input("Insert path to graph file or type \"exit\" to exit: "))
+    filename = str.strip(input("\nInsert path to graph file or type \"exit\" to exit: "))
     if str.lower(filename) == "exit":
         break
 
@@ -22,4 +22,4 @@ while True:
         continue
 
     # Executing algorithm and printing results
-    graph.dijkstra(start_index)
+    graph.dijkstra(graph.graph, start_index)
