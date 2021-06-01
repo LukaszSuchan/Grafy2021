@@ -8,6 +8,6 @@ Należy uruchomic plik "main.py" i dokonac poleceń z konsoli:
 3. na konsoli pokaze się najkrotsza sciezka do kazdego wierzcholka od roota
 
 ## Uwagi
-odpowiedzi do zadań z analizy znajdują się w pliku `analiza.pdf`,
-wszytskie krawędzie mają wartość 1
+\\odpowiedzi do zadań z analizy znajdują się w pliku `analiza.pdf`,
+\\wszytskie krawędzie mają wartość 1
 
