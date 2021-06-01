@@ -9,5 +9,6 @@ Należy uruchomic plik "main.py" i dokonac poleceń z konsoli:
 
 ## Uwagi
 odpowiedzi do zadań z analizy znajdują się w pliku `analiza.pdf`\
+analiza algorytmu znajduje się w pliku `Analiza algorytmu Dijkstry.pdf`
 wszytskie krawędzie mają wartość 1
 
